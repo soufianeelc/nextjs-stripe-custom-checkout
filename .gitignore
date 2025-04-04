@@ -24,6 +24,9 @@
 .DS_Store
 *.pem
 
+# Typescript
+tsconfig.tsbuildinfo
+
 # debug
 npm-debug.log*
 yarn-debug.log*
